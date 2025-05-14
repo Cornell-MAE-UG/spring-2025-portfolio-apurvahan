@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/CV.pdf" | assets/resume_Apurva_Hanwadikar.pdf }}) in PDF format.
 
 
 **Email:** [aah246@cornell.edu](mailto:aah@cornell.edu) | | | **Phone:** +408 583 7537
