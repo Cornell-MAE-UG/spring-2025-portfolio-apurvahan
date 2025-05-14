@@ -5,6 +5,8 @@ description: worked on a CubeSat mission intending to launch a lightsail
 technologies: [SolidWorks, Altium]
 ---
 
+![Research Poster]({{ "/assets/eli_poster-apurva_hanwadikar.pdf" | relative_url }}){: .inline-image-l}
+
 Alpha CubeSat is a 3U student-designed CubeSat developed at Cornell University and selected by NASA's CubeSat Launch Initiative (CSLI). The mission focuses on demonstrating compact, low-mass deployable systems for future small satellite applications. The project includes a light sail experiment, flexible antenna deployment, and a custom mechanical release system, all validated through rigorous testing campaigns aligned with launch and flight qualification standards.
 
 [View the full Deployment Mechanism Report]("assets/eli poster-apurva_hanwadikar.pdf")
